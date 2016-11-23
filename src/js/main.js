@@ -5,6 +5,7 @@
 require("component-responsive-frame/child");
 
 var qsa = require("./lib/qsa");
+require("./lib/gallery.js");
 
 qsa(".dot").forEach(function(d) {
   d.addEventListener("click", function() {

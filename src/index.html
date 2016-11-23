@@ -37,8 +37,14 @@
         </div>
 
         <div class="right">
-          <div class="desc selected" id="uw"><%= markdown.uw %></div>
-          <div class="desc" id="capitol"><%= markdown.capitol %></div>
+          <div class="desc selected" id="uw">
+            <%= t.include("_galleryTemplate.html", {keyword: "uw"}) %>
+            <%= markdown.uw %>
+          </div>
+          <div class="desc" id="capitol">
+            <%= t.include("_galleryTemplate.html", {keyword: "capitol"}) %>
+            <%= markdown.capitol %>
+          </div>
           <div class="desc" id="westlake"><%= markdown.westlake %></div>
           <div class="desc" id="university"><%= markdown.university %></div>
           <div class="desc" id="pioneer"><%= markdown.pioneer %></div>
