@@ -1,0 +1,8 @@
+BEACON HILL STATION
+
+The Beacon Hill Station beams up visitors to the neighborhood’s leafy streets using four high-speed elevators. Above ground, pedestrians are welcomed into one of Seattle’s most diverse neighborhoods and treated to some of the city’s most impressive views.
+ 
+Many Beacon Hill locals relax in the Olmsted Brothers planned Jefferson Park – the city’s sixth largest park - and its historic golf course.  The Seattle skyline serves as an impressive backdrop for this 50-acre oasis, where you can regularly watch a game of lawn bowling, or skateboarders practicing their Ollies and Indy Grabs, kids splashing in a water park, or photographers snapping photos of the Olympic Mountains or downtown.
+ 
+To satiate your appetite, look for tasty, affordable, global cuisine in restaurants scattered along Beacon Avenue South. In one business cluster near 15th Avenue South, you can choose between Indian Thali, Japanese takeout or Mexican food served alongside an entertaining drag show.  A few blocks south, you can indulge in Beacon Hill’s beer scene.
+ 
