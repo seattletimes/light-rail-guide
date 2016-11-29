@@ -2,14 +2,13 @@ CAPITOL HILL STATION
 
 Ascending out of the Capitol Hill Link Light Rail Station, transit users are greeted by the hustle and bustle of one of the West Coast’s densest neighborhoods — more than 20,000 residents live within just a half-mile of this transit hub.
  
-Upon arrival, stimulation smacks almost all six senses: Buskers lay down a rhythmic beat; smells waft from nearby restaurants; and a mixed crowd of thrift-store fashionistas, casually dressed tech workers, punks and tattooed artists create a visual kaleidoscope. 
+Upon arrival, stimulation smacks almost all five senses: Buskers lay down a rhythmic beat; smells waft from nearby restaurants; and a mixed crowd of thrift-store fashionistas, casually dressed tech workers, punks and tattooed artists creates a visual kaleidoscope. 
  
-The neighborhood’s colorful identity can best be observed on a sunny day at Cal Anderson Park, a 7-acre green space situated next to the Capitol Hill Station.  Here, visitors can view a round of bike polo, cheer for a favorite drag-queen softball team, take in an ultimate Frisbee game, or people watch near the park’s water fountain and reflecting pool. 
+The neighborhood’s colorful identity can best be observed on a sunny day at Cal Anderson Park, a 7-acre green space situated next to the Capitol Hill Station. Here, visitors can view a round of bike polo, cheer for a favorite drag-queen softball team, take in an Ultimate Frisbee game, or people-watch near the park’s water fountain and reflecting pool. 
  
 Seattle’s coffee culture was largely cultivated along Capitol Hill’s Broadway, where more than two dozen espresso bars popped up in the 1980s.  Today, the neighborhood’s coffee scene is smaller, but remains vibrant, with some of the city’s best shots being pulled at iconic coffee houses like Espresso Vivace, Victrola Coffee Roasters and Caffe Vita.
  
-Capitol Hill also has one of the highest concentrations of restaurants and bars in Seattle.  The neighborhood’s menu is wide and varied, including affordable bar food along the Pike/Pine corridor and spendier James Beard Award-winning options in venues like Melrose Market. Nightclubs such as Neumos, Chop Suey and the Highline host local and traveling musical artists; and while Seattle’s LGBTQ scene is not as centralized on Capitol Hill as it once was, more than a dozen LGBTQ friendly bars remain.
+Capitol Hill also has one of the highest concentrations of restaurants and bars in Seattle. The neighborhood’s menu is wide and varied, including affordable bar food along the Pike/Pine corridor and spendier James Beard Award-winning options in venues like Melrose Market. Nightclubs such as Neumos, Chop Suey and the Highline host local and traveling musical artists; and while Seattle’s LGBTQ scene is not as centralized on Capitol Hill as it once was, more than a dozen LGBTQ-friendly bars remain.
 
 
 Performing-arts and film venues, large and small, dot the hill. International, independent and local films can be viewed at the Seattle International Film Festival’s Egyptian Theatre or the Northwest Film Forum.  Annex Theatre, 12th Avenue Arts, Velocity Dance Center, the Broadway Performance Hall and a number of smaller venues host plays and other productions.
- 

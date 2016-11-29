@@ -2,8 +2,8 @@ WESTLAKE STATION
  
 Visitors to Westlake Station will find themselves in the center of Seattle’s downtown retail district. Westlake Center, Pacific Place, Macy’s and Nordstrom offer hours of shopping on a four-block stretch.  Hundreds of additional retailers and restaurants, both large and small, are located within just blocks of these four retail anchors.
  
-The Seattle Center Monorail -- a city landmark that drew early notables like President Richard Nixon and Elvis Presley – has a terminal within Westlake Center. Constructed for the 1962 World’s Fair along with the Space Needle, the monorail goes from Westlake to Seattle Center, speeding over downtown traffic at up to 45 mph, making a one way-trip in about 2 minutes.
+The Seattle Center Monorail -- a city landmark that drew early notables like President Richard Nixon and Elvis Presley – has a terminal within Westlake Center. Constructed for the 1962 World’s Fair along with the Space Needle, the monorail goes from Westlake to Seattle Center, speeding over downtown traffic at up to 45 mph, making a one-way trip in about 2 minutes.
  
-Across the street, Westlake Park serves as a major gathering place for tourists, lunch time office workers, and musical and vaudeville-style buskers. The park also draws demonstrators and activists: The Black Lives Matter movement, WTO protests and Occupy Seattle have all utilized the park’s central location and high visibility to mobilize their messages.
+Across the street, Westlake Park serves as a major gathering place for tourists, lunchtime office workers, and musical and vaudeville-style buskers. The park also draws demonstrators and activists: The Black Lives Matter movement, WTO protests and Occupy Seattle have all utilized the park’s central location and high visibility to mobilize their messages.
  
 A few blocks west is Seattle’s storied Pike Place Market, one of the oldest farmer’s markets in the United States. Known for its giant neon sign, fishmongers and rows of flower vendors, the market is also home to a popular gum wall and the “Original Starbucks,” both easily spotted by long lines and huddling tourists.
