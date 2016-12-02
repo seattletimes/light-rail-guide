@@ -6,7 +6,10 @@
   </head>
   <body>
 
-    <responsive-child>
+    <%= t.include("./partials/_nav.html") %>
+
+    <div class="inner">
+      <div class="hed">$6.50 Safari</div>
 
       <div class="intro">
         <p>It’s urban, suburban and industrial. At just over 20 miles long, Sound Transit’s Central Link Light Rail connects more than a dozen diverse communities with 16 stations in King County.
@@ -16,52 +19,88 @@
         <p><em>Click a station below to learn more about the surrounding neighborhood.</em>
       </div>
 
-      <div class="flex-container">
-        <div class="left">
-          <div class="dot" id="uw">UNIVERSITY OF WASHINGTON</div>
-          <div class="dot" id="capitol">CAPITOL HILL</div>
-          <div class="dot" id="westlake">WESTLAKE</div>
-          <div class="dot" id="university">UNIVERSITY STREET</div>
-          <div class="dot" id="pioneer">PIONEER SQUARE</div>
-          <div class="dot" id="international">INTERNATIONAL DISTRICT/CHINATOWN</div>
-          <div class="dot" id="stadium">STADIUM</div>
-          <div class="dot" id="sodo">SODO</div>
-          <div class="dot" id="beacon">BEACON HILL</div>
-          <div class="dot" id="baker">MOUNT BAKER</div>
-          <div class="dot" id="columbia">COLUMBIA CITY</div>
-          <div class="dot" id="othello">OTHELLO</div>
-          <div class="dot" id="rainier">RAINIER BEACH</div>
-          <div class="dot" id="tukwila">Tukwila International Boulevard</div>
-          <div class="dot" id="seatac">SEATAC/AIRPORT</div>
-          <div class="dot" id="angle">ANGLE LAKE</div>
-        </div>
+      <div class="dot" data-id="uw">UNIVERSITY OF WASHINGTON</div>
+      <div class="dot" data-id="capitol">CAPITOL HILL</div>
+      <div class="dot" data-id="westlake">WESTLAKE</div>
+      <div class="dot" data-id="university">UNIVERSITY STREET</div>
+      <div class="dot" data-id="pioneer">PIONEER SQUARE</div>
+      <div class="dot" data-id="international">INTERNATIONAL DISTRICT/CHINATOWN</div>
+      <div class="dot" data-id="stadium">STADIUM</div>
+      <div class="dot" data-id="sodo">SODO</div>
+      <div class="dot" data-id="beacon">BEACON HILL</div>
+      <div class="dot" data-id="baker">MOUNT BAKER</div>
+      <div class="dot" data-id="columbia">COLUMBIA CITY</div>
+      <div class="dot" data-id="othello">OTHELLO</div>
+      <div class="dot" data-id="rainier">RAINIER BEACH</div>
+      <div class="dot" data-id="tukwila">Tukwila International Boulevard</div>
+      <div class="dot" data-id="seatac">SEATAC/AIRPORT</div>
+      <div class="dot" data-id="angle">ANGLE LAKE</div>
 
-        <div class="right">
-          <div class="desc selected" id="uw">
-            <%= t.include("_galleryTemplate.html", {keyword: "uw"}) %>
-            <%= markdown.uw %>
-          </div>
-          <div class="desc" id="capitol">
-            <%= t.include("_galleryTemplate.html", {keyword: "capitol"}) %>
-            <%= markdown.capitol %>
-          </div>
-          <div class="desc" id="westlake"><%= markdown.westlake %></div>
-          <div class="desc" id="university"><%= markdown.university %></div>
-          <div class="desc" id="pioneer"><%= markdown.pioneer %></div>
-          <div class="desc" id="international"><%= markdown.international %></div>
-          <div class="desc" id="stadium"><%= markdown.stadium %></div>
-          <div class="desc" id="sodo"><%= markdown.sodo %></div>
-          <div class="desc" id="beacon"><%= markdown.beacon %></div>
-          <div class="desc" id="baker"><%= markdown.baker %></div>
-          <div class="desc" id="columbia"><%= markdown.columbia %></div>
-          <div class="desc" id="othello"><%= markdown.othello %></div>
-          <div class="desc" id="rainier"><%= markdown.rainier %></div>
-          <div class="desc" id="tukwila"><%= markdown.tukwila %></div>
-          <div class="desc" id="seatac"><%= markdown.seatac %></div>
-          <div class="desc" id="angle"><%= markdown.angle %></div>
-        </div>
+      <div class="desc selected" id="uw">
+        <%= t.include("_galleryTemplate.html", {keyword: "uw"}) %>
+        <%= markdown.uw %>
       </div>
-    </responsive-child>
+      <div class="desc" id="capitol">
+        <%= t.include("_galleryTemplate.html", {keyword: "capitol"}) %>
+        <%= markdown.capitol %>
+      </div>
+      <div class="desc" id="westlake">
+        <%= t.include("_galleryTemplate.html", {keyword: "westlake"}) %>
+        <%= markdown.westlake %>
+      </div>
+      <div class="desc" id="university">
+        <%= t.include("_galleryTemplate.html", {keyword: "university"}) %>
+        <%= markdown.university %>
+      </div>
+      <div class="desc" id="pioneer">
+        <%= t.include("_galleryTemplate.html", {keyword: "pioneer"}) %>
+        <%= markdown.pioneer %>
+      </div>
+      <div class="desc" id="international">
+        <%= t.include("_galleryTemplate.html", {keyword: "international"}) %>
+        <%= markdown.international %>
+      </div>
+      <div class="desc" id="stadium">
+        <%= t.include("_galleryTemplate.html", {keyword: "stadium"}) %>
+        <%= markdown.stadium %>
+      </div>
+      <div class="desc" id="sodo">
+        <%= t.include("_galleryTemplate.html", {keyword: "sodo"}) %>
+        <%= markdown.sodo %>
+      </div>
+      <div class="desc" id="beacon">
+        <%= t.include("_galleryTemplate.html", {keyword: "beacon"}) %>
+        <%= markdown.beacon %>
+      </div>
+      <div class="desc" id="baker">
+        <%= t.include("_galleryTemplate.html", {keyword: "baker"}) %>
+        <%= markdown.baker %>
+      </div>
+      <div class="desc" id="columbia">
+        <%= t.include("_galleryTemplate.html", {keyword: "columbia"}) %>
+        <%= markdown.columbia %>
+      </div>
+      <div class="desc" id="othello">
+        <%= markdown.othello %>
+      </div>
+      <div class="desc" id="rainier">
+        <%= t.include("_galleryTemplate.html", {keyword: "rainier"}) %>
+        <%= markdown.rainier %>
+      </div>
+      <div class="desc" id="tukwila">
+        <%= markdown.tukwila %>
+      </div>
+      <div class="desc" id="seatac">
+        <%= t.include("_galleryTemplate.html", {keyword: "seatac"}) %>
+        <%= markdown.seatac %>
+      </div>
+      <div class="desc" id="angle">
+        <%= t.include("_galleryTemplate.html", {keyword: "angle"}) %>
+        <%= markdown.angle %>
+      </div>
+    </div>
+
+    <%= t.include("./partials/_navBottom.html") %>
 
     <script src="app.js" async></script>
     <% if (json.project.production) { %>

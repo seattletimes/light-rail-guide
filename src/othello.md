@@ -1,4 +1,4 @@
-OTHELLO STATION
+<div class="stop-title">Othello Station</div>
 
 More than 40 languages are spoken in the [Othello neighborhood](http://www.helloothello.com/) — from Amharic to Vietnamese — making it the United Nations of Seattle.
  

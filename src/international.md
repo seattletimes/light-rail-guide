@@ -1,4 +1,4 @@
-INTERNATIONAL DISTRICT/CHINATOWN STATION
+<div class="stop-title">International District/Chinatown Station</div>
  
 Seattle’s International District-Chinatown Station functions as a crossroads for Seattle’s Asian-American community, and for the city at large. The district is loosely divided into Chinatown, Japantown and Little Saigon neighborhoods.
  

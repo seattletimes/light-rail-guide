@@ -49,7 +49,7 @@ var advance = function(gallery, direction) {
 
 var galleries = $(".gallery");
 galleries.forEach(function(g) {
-  console.log(g)
+  // console.log(g)
   g.querySelector(".caption").innerHTML = g.querySelector(".active img").alt;
   g.addEventListener("click", function(e) {
     var target = closest(e.target, ".arrow");

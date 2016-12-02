@@ -1,4 +1,4 @@
-PIONEER SQUARE STATION
+<div class="stop-title">Pioneer Square Station</div>
  
 Referred to as the “heart of old Seattle,” this historic neighborhood is known for its contemporary art galleries, quirky businesses, casual saloons and pubs, and growing foodie scene.
  

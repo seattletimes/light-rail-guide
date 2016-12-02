@@ -1,4 +1,4 @@
-UNIVERSITY OF WASHINGTON STATION
+<div class="stop-title">University of Washington Station</div>
 
 One of the newest of the light-rail stops, the University of Washington Station deposits travelers at the entrance to [Husky Stadium](http://www.seattletimes.com/seattle-news/special-reports/new-improved-husky-stadium-ready-to-shine/), a sports venue often said to have the best view in college football — Mount Rainier, draped in a snow blanket, frequently demands attention from the southeast, while some Husky fans “sailgate” from boats moored on Lake Washington.
  

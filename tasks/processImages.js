@@ -17,8 +17,9 @@ module.exports = function(grunt) {
     files.forEach(function(f) {
       var buffer = fs.readFileSync(f);
       var meta = exif.create(buffer).parse();
-      if (!meta.tags.ImageDescription) return;
-      var caption = meta.tags.ImageDescription.trim();
+      // if (!meta.tags.ImageDescription) return;
+      var c = meta.tags.ImageDescription ? meta.tags.ImageDescription.trim() : "";
+      var caption = c;
       writer.write([f, caption]);
     });
 

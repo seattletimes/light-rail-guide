@@ -1,4 +1,4 @@
-CAPITOL HILL STATION
+<div class="stop-title">Capitol Hill Station</div>
 
 Ascending out of the Capitol Hill Link Light Rail Station, transit users are greeted by the hustle and bustle of one of the [West Coast’s densest neighborhoods](http://www.seattletimes.com/seattle-news/data/explore-this-how-fast-is-your-neighborhood-densifying/) — more than 20,000 residents live within just a half-mile of this transit hub.
  

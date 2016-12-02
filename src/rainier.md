@@ -1,4 +1,4 @@
-RAINIER BEACH STATION
+<div class="stop-title">Rainier Beach Station</div>
  
 Where Rainier Avenue meets Lake Washington, you’ll find the busy commercial and residential neighborhood of Rainier Beach.
  

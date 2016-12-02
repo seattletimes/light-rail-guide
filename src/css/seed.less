@@ -1,16 +1,22 @@
 @import "seattletimes";
 @import "gallery";
 
-body {
+.inner {
   max-width: 960px;
   margin: auto;
   padding: 40px 0;
 }
 
+.hed {
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+}
+
 .intro {
   max-width: 630px;
   margin: auto;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 
 .dot {
@@ -19,39 +25,21 @@ body {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: bold;
-  padding: 8px 12px 5px 12px;
-  background: @st-dark-green;
   margin-bottom: 5px;
-  color: white;
   text-align: center;
   letter-spacing: 0.01em;
-
-  &:hover {
-    color: black;
-    background: @st-light-green;
-  }
 }
 
-.flex-container {
-  .display-flex();
-}
-
-.left {
-  .flex(1);
-}
-
-.right {
-  .flex(2);
+.stop-title {
+  font-weight: bold;
+  font-family: @df-sans;
+  font-size: 22px;
+  margin-top: 10px;
 }
 
 .desc {
-  // font-size: 16px;
   padding-left: 40px;
-  display: none;
-
-  &.selected {
-    display: block;
-  }
+  margin-top: 100px;
 
   p:first-child {
     margin-top: 0;

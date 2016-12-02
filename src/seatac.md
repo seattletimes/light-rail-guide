@@ -1,4 +1,4 @@
-SEATAC/AIRPORT STATION
+<div class="stop-title">Seatac/Airport Station</div>
 
 This station serves the rapidly growing [Seattle-Tacoma International Airport](https://www.portseattle.org/Sea-Tac/Pages/default.aspx) and the diverse suburb of SeaTac.
  

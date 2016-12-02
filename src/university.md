@@ -1,4 +1,4 @@
-UNIVERSITY STREET STATION
+<div class="stop-title">University Street Station</div>
  
 The University Street Station serves the downtown financial district, and also provides easy access to some of downtown Seattle’s most notable arts and culture institutions.
  

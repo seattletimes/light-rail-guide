@@ -1,4 +1,4 @@
-MOUNT BAKER STATION
+<div class="stop-title">Mount Baker Station</div>
  
 The immediate environment surrounding the elevated Mount Baker Station has a suburban feel, with important Seattle arterials Martin Luther King Jr. Way and Rainier Avenue sprawling below. These two major north-south routes are lined with strip malls and medium-sized box stores, along with only-in-Seattle businesses like the [Oberto Sausage Company](https://www.oberto.com/) and [Borracchini’s Bakery](https://www.nowcake.com/). Coincidentally, Rainier Avenue once served as a thoroughfare for the Rainier Avenue Electric Railway, which connected Seattle with Renton.
  

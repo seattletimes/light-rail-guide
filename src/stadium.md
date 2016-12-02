@@ -1,4 +1,4 @@
-STADIUM STATION
+<div class="stop-title">Stadium Station</div>
  
 Stadium Station offers easy access to Seattle’s major-league sporting events, including [Mariners games](http://www.seattletimes.com/sports/mariners/) at Safeco Field, and [Sounders FC](http://www.seattletimes.com/sports/sounders/) and [Seahawks games](http://www.seattletimes.com/sports/seahawks/) at CenturyLink Field. 
 

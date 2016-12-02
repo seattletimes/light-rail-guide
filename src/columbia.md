@@ -1,4 +1,4 @@
-COLUMBIA CITY STATION
+<div class="stop-title">Columbia City Station</div>
 
 Brick and wood-framed buildings line [Columbia City’s quaint historic business district](http://www.columbiacityseattle.com/) on Rainier Avenue South. The neighborhood’s shops, restaurants and community spaces are a reflection of its diversity: you can find all kinds of food, from [African](http://www.seattletimes.com/life/food-drink/the-culinary-expanses-of-africa-at-a-small-columbia-city-spot/) to [Hawaiian](http://www.supersixseattle.com/) to [Caribbean](http://www.islandsoulrestaurant.com/); or snag a ticket to a Latino film festival or opera preview. Coffee shops and breweries abound, and entertainment is offered nightly at [Ark Lodge Cinemas](http://www.arklodgecinemas.com/), [Columbia City Theater](http://www.columbiacitytheater.com/), [Rainier Arts Center](http://www.rainierartscenter.org/), the [Royal Room](http://theroyalroomseattle.com/) and other venues. 
  

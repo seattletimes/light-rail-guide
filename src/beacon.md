@@ -1,4 +1,4 @@
-BEACON HILL STATION
+<div class="stop-title">Beacon Hill Station</div>
 
 The Beacon Hill Station beams visitors up to the neighborhood’s leafy streets using four high-speed elevators. Above ground, pedestrians are welcomed into one of Seattle’s most diverse neighborhoods and treated to some of the city’s most impressive views.
  

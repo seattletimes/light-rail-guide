@@ -1,4 +1,4 @@
-ANGLE LAKE STATION
+<div class="stop-title">Angle Lake Station</div>
  
 Passengers traveling the elevated 1.6-mile track south of the airport station are offered a sweeping view of the Olympic Mountain range to the west, Mount Rainier to the southeast and Angle Lake to the east.
  
