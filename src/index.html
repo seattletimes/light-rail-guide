@@ -19,22 +19,7 @@
         <p><em>Click a station below to learn more about the surrounding neighborhood.</em>
       </div>
 
-      <div class="dot" data-id="uw">UNIVERSITY OF WASHINGTON</div>
-      <div class="dot" data-id="capitol">CAPITOL HILL</div>
-      <div class="dot" data-id="westlake">WESTLAKE</div>
-      <div class="dot" data-id="university">UNIVERSITY STREET</div>
-      <div class="dot" data-id="pioneer">PIONEER SQUARE</div>
-      <div class="dot" data-id="international">INTERNATIONAL DISTRICT/CHINATOWN</div>
-      <div class="dot" data-id="stadium">STADIUM</div>
-      <div class="dot" data-id="sodo">SODO</div>
-      <div class="dot" data-id="beacon">BEACON HILL</div>
-      <div class="dot" data-id="baker">MOUNT BAKER</div>
-      <div class="dot" data-id="columbia">COLUMBIA CITY</div>
-      <div class="dot" data-id="othello">OTHELLO</div>
-      <div class="dot" data-id="rainier">RAINIER BEACH</div>
-      <div class="dot" data-id="tukwila">Tukwila International Boulevard</div>
-      <div class="dot" data-id="seatac">SEATAC/AIRPORT</div>
-      <div class="dot" data-id="angle">ANGLE LAKE</div>
+      <div class="nav-map"><%= t.include("./assets/lightRailStations.svg") %></div>
 
       <div class="desc selected" id="uw">
         <%= t.include("_galleryTemplate.html", {keyword: "uw"}) %>
@@ -81,6 +66,7 @@
         <%= markdown.columbia %>
       </div>
       <div class="desc" id="othello">
+        <%= t.include("_galleryTemplate.html", {keyword: "othello"}) %>
         <%= markdown.othello %>
       </div>
       <div class="desc" id="rainier">
@@ -88,6 +74,7 @@
         <%= markdown.rainier %>
       </div>
       <div class="desc" id="tukwila">
+        <%= t.include("_galleryTemplate.html", {keyword: "tukwila"}) %>
         <%= markdown.tukwila %>
       </div>
       <div class="desc" id="seatac">
