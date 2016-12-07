@@ -9,9 +9,8 @@ var qsa = require("./lib/qsa");
 require("./lib/gallery.js");
 
 document.querySelector(".nav-map svg").addEventListener("click", function(e) {
-  if (e.target.classList[0].indexOf("cls-4") > -1) {
+  if (e.target.classList[0].indexOf("cls-4") > -1 || e.target.classList[0].indexOf("cls-3") > -1) {
     var stop = e.target.parentNode.getAttribute("data-stop");
-    console.log(e.target.parentNode.getAttribute("data-stop"))
     animateScroll("#" + stop)
   }
 });

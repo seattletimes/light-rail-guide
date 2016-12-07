@@ -1,16 +1,23 @@
 @import "seattletimes";
 @import "gallery";
+@import "animation";
 
 .inner {
   max-width: 960px;
   margin: auto;
   padding: 40px 10px;
+  padding-top: 0;
 }
 
 .hed {
   text-align: center;
   font-weight: bold;
   font-size: 60px;
+  padding-top: 20px;
+
+  @media @mobile {
+    font-size: 45px;
+  }
 }
 
 .intro {
@@ -37,14 +44,21 @@
   p:first-child {
     margin-top: 0;
   }
+  p, .stop-title {
+    max-width: 720px;
+    margin: 19px auto;
+  }
 }
 
 .cls-4 {
   cursor: pointer;
 
-  &:hover {
-    fill: @df-dark-gray;
-  }
+  // &:hover {
+  //   fill: @df-dark-gray;
+  // }
+}
+.cls-3 {
+  cursor: pointer;
 }
 
 .top-wrapper {
