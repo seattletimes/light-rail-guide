@@ -25,12 +25,14 @@
     <div class="inner">
 
 
-      <div class="hed">$6.50 Safari</div>
+      <div class="hed">Transit tourism: Explore Seattle by Link light rail</div>
 
       <div class="intro">
-        <p>It’s urban, suburban and industrial. At just over 20 miles long, Sound Transit’s Central Link Light Rail connects more than a dozen diverse communities with 16 stations in King County.
+        <p>It’s urban, suburban and industrial. At just over 20 miles long, Sound Transit’s Central <a href="http://www.soundtransit.org/Rider-Guide/Link-light-rail">Link Light Rail</a> connects more than a dozen diverse communities with 16 stations in King County.
    
         <p>From the University of Washington on the north end, to SeaTac’s Angle Lake neighborhood on the south, users can explore and experience arts, culture, history and nature with a $6.50 all-day Sound Transit ticket.
+
+        <p>See our <a href="http://www.seattletimes.com/category/seattle-newcomers-guide/">Seattle Newcomers Guide</a> to learn more about navigating area neighborhoods.
          
         <p><em>Click a station below to learn more about the surrounding neighborhood.</em>
       </div>
@@ -118,6 +120,13 @@
         <%= t.include("_topTemplate.html") %>
       </div>
     </div>
+
+    <%= t.include("./partials/_dontMiss.html", { data: [
+      { link: "http://projects.seattletimes.com/2016/st3-guide/", image: "st3.png", category: "Transportation", head: "ST3: What you'd pay, what you'd get" },
+      { link: "http://projects.seattletimes.com/2016/quizzes/seattle-neighborhoods-quiz/", image: "neighborhoods.jpg", category: "Quiz", head: "New to Seattle? Find your neighborhood." },
+      { link: "http://www.seattletimes.com/life/food-drink/newcomers-guide-to-pho/", image: "pho.jpg", category: "Food & Drink", head: "A guide to pho — Seattle’s favorite soup-and-noodle dish" },
+      { link: "http://projects.seattletimes.com/2016/bhutan-to-tukwila/", image: "bhutan.jpg", category: "Photo & Video", head: "30 Days: A refugee family's first month in the U.S." }
+    ]}) %>
 
     <%= t.include("./partials/_navBottom.html") %>
 
