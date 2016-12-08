@@ -1,5 +1,5 @@
 require("./lib/social");
-// require("./lib/ads");
+require("./lib/ads");
 // var track = require("./lib/tracking");
 
 require("component-responsive-frame/child");
@@ -10,7 +10,19 @@ require("./lib/gallery.js");
 
 document.querySelector(".nav-map svg").addEventListener("click", function(e) {
   if (e.target.classList[0].indexOf("cls-4") > -1 || e.target.classList[0].indexOf("cls-3") > -1) {
+    var parent = e.target.parentNode;
     var stop = e.target.parentNode.getAttribute("data-stop");
+    while (!stop) {
+      parent = parent.parentNode;
+      stop = parent.getAttribute("data-stop");
+    }
+    // if (!stop) {
+    //   stop = e.target.parentNode.parentNode.getAttribute("data-stop");
+    // }
+    // if (!stop) {
+    //   stop = e.target.parentNode.parentNode.parentNode.getAttribute("data-stop");
+    // }
+    console.log(stop)
     animateScroll("#" + stop)
   }
 });

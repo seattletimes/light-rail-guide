@@ -12,7 +12,7 @@
 .hed {
   text-align: center;
   font-weight: bold;
-  font-size: 60px;
+  font-size: 50px;
   padding-top: 20px;
 
   @media @mobile {
@@ -24,6 +24,14 @@
   max-width: 630px;
   margin: auto;
   padding-bottom: 30px;
+}
+
+.byline {
+  text-align: center;
+  font-size: 16px;
+  font-family: @df-sans;
+  margin-top: 10px;
+  // font-style: italic;
 }
 
 .nav-map {
@@ -83,5 +91,19 @@
 
   &:hover {
     color: @df-blue;
+  }
+}
+
+.credits {
+  font-family: @df-sans;
+  margin-top: 40px;
+  font-size: 16px;
+
+  div {
+    padding-bottom: 4px;
+
+    &:last-child {
+      padding-bottom: 0;
+    }
   }
 }

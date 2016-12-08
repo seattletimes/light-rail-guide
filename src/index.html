@@ -10,6 +10,8 @@
 
     <%= t.include("./partials/_nav.html") %>
 
+    <%= t.include("./partials/_ad.html", { type: "banner" }) %>
+
     <div class="splash animation">
       <img src="./assets/background.jpg" class="background">
       <div class="train sprite">
@@ -25,9 +27,11 @@
     <div class="inner">
 
 
-      <div class="hed">Transit tourism: Explore Seattle by Link light rail</div>
+      <div class="hed">Transit tourism:<br>Explore Seattle by Link light rail</div>
 
       <div class="intro">
+        <p class="byline">By Tyler Sipe and Lindsey Wasson
+
         <p>It’s urban, suburban and industrial. At just over 20 miles long, Sound Transit’s Central <a href="http://www.soundtransit.org/Rider-Guide/Link-light-rail">Link Light Rail</a> connects more than a dozen diverse communities with 16 stations in King County.
    
         <p>From the University of Washington on the north end, to SeaTac’s Angle Lake neighborhood on the south, users can explore and experience arts, culture, history and nature with a $6.50 all-day Sound Transit ticket.
@@ -119,6 +123,13 @@
         <%= markdown.angle %>
         <%= t.include("_topTemplate.html") %>
       </div>
+
+      <div class="credits">
+        <div>Reporting by Tyler Sipe and Lindsey Wasson</div>
+        <div>Design by Frank Mina</div>
+        <div>Web development by Audrey Carlsen</div>
+      </div>
+
     </div>
 
     <%= t.include("./partials/_dontMiss.html", { data: [
@@ -127,6 +138,8 @@
       { link: "http://www.seattletimes.com/life/food-drink/newcomers-guide-to-pho/", image: "pho.jpg", category: "Food & Drink", head: "A guide to pho — Seattle’s favorite soup-and-noodle dish" },
       { link: "http://projects.seattletimes.com/2016/bhutan-to-tukwila/", image: "bhutan.jpg", category: "Photo & Video", head: "30 Days: A refugee family's first month in the U.S." }
     ]}) %>
+
+    <%= t.include("./partials/_ad.html", { type: "bannerBottom" }) %>
 
     <%= t.include("./partials/_navBottom.html") %>
 
