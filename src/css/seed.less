@@ -98,12 +98,14 @@
 .top-button {
   display: inline-block;
 
-  .fa {
-    padding-right: 4px;
+  .arrow {
+    color: @df-border-gray;
   }
 
   &:hover {
-    color: @df-blue;
+    .arrow {
+      color: @df-blue;
+    }
   }
 }
 
@@ -128,5 +130,13 @@
 .ad-bottom {
   margin-bottom: 40px;
   margin-top: 10px;
+}
+
+.dropcap {
+  float: left;
+  line-height: 1em;
+  margin-right: 8px;
+  font-weight: bold;
+  font-size: 78px;
 }
 

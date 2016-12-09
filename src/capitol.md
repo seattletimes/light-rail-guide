@@ -1,4 +1,4 @@
-Ascending out of the Capitol Hill Link Light Rail Station, transit users are greeted by the hustle and bustle of one of the [West Coast’s densest neighborhoods](http://www.seattletimes.com/seattle-news/data/explore-this-how-fast-is-your-neighborhood-densifying/) — more than 20,000 residents live within just a half-mile of this transit hub.
+<span class="dropcap">A</span>scending out of the Capitol Hill Link Light Rail Station, transit users are greeted by the hustle and bustle of one of the [West Coast’s densest neighborhoods](http://www.seattletimes.com/seattle-news/data/explore-this-how-fast-is-your-neighborhood-densifying/) — more than 20,000 residents live within just a half-mile of this transit hub.
  
 Upon arrival, stimulation smacks almost all five senses: Buskers lay down a rhythmic beat; smells waft from nearby restaurants; and a mixed crowd of thrift-store fashionistas, casually dressed tech workers, punks and tattooed artists creates a visual kaleidoscope. 
  
