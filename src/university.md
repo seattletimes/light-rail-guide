@@ -1,5 +1,7 @@
 <span class="dropcap">T</span>he University Street Station serves the downtown financial district, and also provides easy access to some of downtown Seattle’s most notable arts and culture institutions.
- 
+
+<aside class="map"><img src="./assets/maps/UniversityStation-c.jpg"></aside>
+
 The station has a direct entrance to Benaroya Hall, home of the Seattle Symphony. Founded in 1903, the [Seattle Symphony](http://www.seattlesymphony.org/) often features classics like Dvorak, Beethoven and Bach; on a contemporary note, the group has also performed symphonic renditions of video-game music, a live soundtrack screening of “Psycho” and [Sir Mix-A-Lot’s “Baby Got Back.”](http://www.seattletimes.com/entertainment/sir-mix-a-lot-had-a-lot-of-fun-with-seattle-symphony/)
  
 [Seattle Art Museum](http://www.seattleartmuseum.org/)’s main collection is just a few blocks away from the University Street Station. Inside, visitors will find some of the institution’s more than 25,000 pieces originating from nearly every continent, and a distinguished collection of locally made Native American art.

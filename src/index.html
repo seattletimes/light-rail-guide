@@ -6,8 +6,6 @@
   </head>
   <body>
 
-    <div id="top"></div>
-
     <%= t.include("./partials/_nav.html") %>
 
     <%= t.include("./partials/_ad.html", { type: "banner" }) %>
@@ -43,6 +41,8 @@
         <p>Click a station below to learn more about the surrounding neighborhood.
       </div>
 
+    <div id="top"></div>
+    
       <div class="nav-map"><%= t.include("./assets/lightRailStations.svg") %></div>
 
       <div class="desc selected" id="uw">
@@ -143,9 +143,9 @@
       </div>
 
       <div class="credits">
-        <div>Reporting by Tyler Sipe and Lindsey Wasson</div>
-        <div>Design by Frank Mina</div>
-        <div>Web development by Audrey Carlsen</div>
+        <div>Reporting by <strong>Tyler Sipe</strong> and <strong>Lindsey Wasson</strong></div>
+        <div>Design by <strong>Frank Mina</strong></div>
+        <div>Web development by <strong>Audrey Carlsen</strong></div>
         <div class="dateline">Originally published December 12, 2016.</div>
       </div>
 

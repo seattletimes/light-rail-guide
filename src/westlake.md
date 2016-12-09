@@ -1,4 +1,6 @@
 <span class="dropcap">V</span>isitors to Westlake Station will find themselves in the center of Seattle’s downtown retail district. [Westlake Center](https://www.westlakecenter.com/en.html), [Pacific Place](http://www.pacificplaceseattle.com/), Macy’s and Nordstrom offer hours of shopping on a four-block stretch. Hundreds of additional retailers and restaurants, both large and small, are located within just blocks of these four retail anchors.
+
+<aside class="map"><img src="./assets/maps/WestlakeStation-c.jpg"></aside>
  
 The [Seattle Center Monorail](http://www.seattlemonorail.com/) — a city landmark that drew early notables like President Richard Nixon and Elvis Presley – has a terminal within Westlake Center. Constructed for the 1962 World’s Fair along with the Space Needle, the monorail goes from Westlake to Seattle Center, speeding over downtown traffic at up to 45 mph, making a one-way trip in about 2 minutes.
  
