@@ -152,10 +152,12 @@
     </div>
 
     <%= t.include("./partials/_dontMiss.html", { data: [
+      { link: "http://www.seattletimes.com/seattle-news/transportation/check-out-uws-new-light-rail-station-and-how-it-could-transform-seattle/", image: "station.jpg", category: "Transportation", head: "Check out UW’s new light-rail station — and how it could transform Seattle" },
       { link: "http://projects.seattletimes.com/2016/st3-guide/", image: "st3.png", category: "Transportation", head: "ST3: What you'd pay, what you'd get" },
       { link: "http://projects.seattletimes.com/2016/quizzes/seattle-neighborhoods-quiz/", image: "neighborhoods.jpg", category: "Quiz", head: "New to Seattle? Find your neighborhood." },
-      { link: "http://projects.seattletimes.com/2016/bus-sketches/", image: "bus.jpg", category: "Seattle Sketcher", head: "The bus riders of Seattle: their loves, frustrations — and hopes" },
-      { link: "http://projects.seattletimes.com/2016/bhutan-to-tukwila/", image: "bhutan.jpg", category: "Photo & Video", head: "30 Days: A refugee family's first month in the U.S." }
+      { link: "http://projects.seattletimes.com/2016/bus-sketches/", image: "bus.jpg", category: "Seattle Sketcher", head: "The bus riders of Seattle: their loves, frustrations — and hopes" }
+      
+      
     ]}) %>
 
     <div class="ad-bottom"><%= t.include("./partials/_ad.html", { type: "bannerBottom" }) %></div>

@@ -9,13 +9,13 @@
       "path": ""
     }
   },
-  "title": "",
-  "description": "",
+  "title": "Transit tourism: Explore Seattle by Link light rail",
+  "description": "From the University of Washington on the north end, to SeaTac’s Angle Lake neighborhood on the south, users can explore and experience arts, culture, history and nature with a $6.50 all-day Sound Transit ticket.",
   "url": "",
   "slug": "",
   "tags": [],
-  "image": "assets/social.jpg",
+  "image": "assets/LightRailTour-teaser.jpeg",
   "sheets": [],
   "production": false,
-  "embedded": true
+  "embedded": false
 }
