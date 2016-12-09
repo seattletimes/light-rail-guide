@@ -179,6 +179,10 @@ body {
   max-width: 720px;
   margin: auto;
 
+  @media @mobile {
+    display: block;
+  }
+
   .left {
     .flex(2);
 
@@ -190,21 +194,5 @@ body {
   }
   .right {
     .flex(1)
-  }
-}
-
-aside.map {
-  width: 25%;
-  clear: both;
-  float: right;
-  margin-bottom: 12px;
-  margin-left: 16px;
-
-  @media @tablet {
-    width: 33%;
-  }
-
-  @media @mobile {
-    width: 45%;
   }
 }

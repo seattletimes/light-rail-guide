@@ -2,7 +2,7 @@
  
 There’s plenty to explore past the stadium, too.
  
-Washington is consistently named one of country’s most beautiful campuses, with dozens of buildings built in Collegiate Gothic style, including the iconic [Suzzallo Library](http://www.lib.washington.edu/suzzallo) with its 35-foot-high stained-glass windows. In the spring, the campus becomes a regional destination with the university’s blooming cherry trees found concentrated in the Quad.
+Washington is consistently named one of the country’s most beautiful campuses, with dozens of buildings built in Collegiate Gothic style, including the iconic [Suzzallo Library](http://www.lib.washington.edu/suzzallo) with its 35-foot-high stained-glass windows. In the spring, the campus becomes a regional destination with the university’s blooming cherry trees found concentrated in the Quad.
  
 Museum opportunities also abound on the campus. Science geeks will enjoy the [Burke Museum of Natural History and Culture](http://www.burkemuseum.org/). Its collections span some 16 million artifacts, including a mammoth tusk and the world’s largest collection of spread bird wings. Art lovers can take in contemporary-focused art at the [Henry Art Museum](https://henryart.org/) with work created by Northwest talent, along with mixed-media and performance art. Be sure to visit [James Turrell’s “Skyspace”](http://www.seattletimes.com/photo-video/photography/mindful-meditation-at-the-henry-art-gallery/) on a sunny day for a surreal experience. A round chamber with an aperture in the ceiling, it can make a blue sky look oddly two-dimensional.
  
