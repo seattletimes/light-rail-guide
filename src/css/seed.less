@@ -6,6 +6,9 @@ body {
   @media @tablet {
     font-size: 18px;
   }
+  @media @mobile {
+    font-size: 17px;
+  }
 }
 
 .inner {
@@ -23,7 +26,7 @@ body {
   padding-top: 20px;
 
   @media @mobile {
-    font-size: 45px;
+    font-size: 40px;
   }
 }
 
@@ -37,6 +40,10 @@ body {
   text-align: center;
   font-size: 26px;
   margin-top: 15px;
+
+  @media @mobile {
+    font-size: 20px;
+  }
 }
 
 .intro {
@@ -68,8 +75,14 @@ body {
 .desc {
   margin-top: 80px;
 
-  p:first-child {
-    margin-top: 0;
+  @media @mobile {
+    margin-top: 40px;
+  }
+
+  .text {
+    p:first-child {
+      margin-top: 0;
+    }
   }
   p, .stop-title {
     max-width: 720px;
@@ -120,6 +133,10 @@ body {
   margin-top: 40px;
   font-size: 16px;
   text-align: center;
+
+  @media @mobile {
+    font-size: 15px;
+  }
 
   div {
     padding-bottom: 4px;
