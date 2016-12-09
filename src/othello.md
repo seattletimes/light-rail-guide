@@ -1,5 +1,3 @@
-<div class="stop-title">Othello Station</div>
-
 More than 40 languages are spoken in the [Othello neighborhood](http://www.helloothello.com/) — from Amharic to Vietnamese — making it the United Nations of Seattle.
  
 The community’s rich cultural diversity is omnipresent, and can be experienced in the businesses and organizations found close to the Othello Station along Martin Luther King Junior Way South: East African and Cambodian grocers and retailers sell familiar products to their respective communities or curious customers; the smells of lemongrass pho, or beef skirt steak carne asada, or pork and shrimp shumai greets pedestrians passing the dozens of restaurants dotting the neighborhood; and throughout the week, you can hear Christian service spoken in Tagalog, or Vietnamese singing coming from the neighborhood’s Buddhist monastery, or prayers in Arabic being recited at a local Islamic school.

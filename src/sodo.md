@@ -1,5 +1,3 @@
-<div class="stop-title">SoDo Station</div>
- 
 Passengers entering SoDo Station should crane their necks to observe the massive, colorful murals adorning warehouse exteriors – the artwork is part of the growing [SODO Track](http://sodotrack.com/) project. When completed, murals from some 50 artists will spread over 32 walls.
  
 SoDo is almost entirely an industrial and factory district. The area was originally named for being South of the former Mariners stadium, the Kingdome. The Mariners also popularized the slogan “SoDo Mojo” in the early 2000s.

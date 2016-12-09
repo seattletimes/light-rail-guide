@@ -27,98 +27,116 @@
     <div class="inner">
 
 
-      <div class="hed">Transit tourism:<br>Explore Seattle by Link light rail</div>
+      <div class="hed">TRANSIT TOURISM</div>
+      <div class="divider"></div>
+      <div class="subhed">Explore Seattle by Link light rail</div>
 
       <div class="intro">
         <p class="byline">By Tyler Sipe and Lindsey Wasson
 
-        <p>It’s urban, suburban and industrial. At just over 20 miles long, Sound Transit’s Central <a href="http://www.soundtransit.org/Rider-Guide/Link-light-rail">Link Light Rail</a> connects more than a dozen diverse communities with 16 stations in King County.
+        <p>It’s urban, suburban and industrial. At just over 20 miles long, Sound Transit’s <a href="http://www.soundtransit.org/Rider-Guide/Link-light-rail">Central Link light rail</a> connects more than a dozen diverse communities with 16 stations in King County.
    
         <p>From the University of Washington on the north end, to SeaTac’s Angle Lake neighborhood on the south, users can explore and experience arts, culture, history and nature with a $6.50 all-day Sound Transit ticket.
 
         <p>See our <a href="http://www.seattletimes.com/category/seattle-newcomers-guide/">Seattle Newcomers Guide</a> to learn more about navigating area neighborhoods.
          
-        <p><em>Click a station below to learn more about the surrounding neighborhood.</em>
+        <p>Click a station below to learn more about the surrounding neighborhood.
       </div>
 
       <div class="nav-map"><%= t.include("./assets/lightRailStations.svg") %></div>
 
       <div class="desc selected" id="uw">
+        <div class="stop-title">University of Washington Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "uw"}) %>
         <%= markdown.uw %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="capitol">
+        <div class="stop-title">Capitol Hill Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "capitol"}) %>
         <%= markdown.capitol %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="westlake">
+        <div class="stop-title">Westlake Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "westlake"}) %>
         <%= markdown.westlake %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="university">
+        <div class="stop-title">University Street Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "university"}) %>
         <%= markdown.university %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="pioneer">
+        <div class="stop-title">Pioneer Square Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "pioneer"}) %>
         <%= markdown.pioneer %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="international">
+        <div class="stop-title">International District/Chinatown Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "international"}) %>
         <%= markdown.international %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="stadium">
+        <div class="stop-title">Stadium Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "stadium"}) %>
         <%= markdown.stadium %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="sodo">
+        <div class="stop-title">SoDo Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "sodo"}) %>
         <%= markdown.sodo %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="beacon">
+        <div class="stop-title">Beacon Hill Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "beacon"}) %>
         <%= markdown.beacon %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="baker">
+        <div class="stop-title">Mount Baker Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "baker"}) %>
         <%= markdown.baker %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="columbia">
+        <div class="stop-title">Columbia City Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "columbia"}) %>
         <%= markdown.columbia %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="othello">
+        <div class="stop-title">Othello Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "othello"}) %>
         <%= markdown.othello %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="rainier">
+        <div class="stop-title">Rainier Beach Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "rainier"}) %>
         <%= markdown.rainier %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="tukwila">
+        <div class="stop-title">Tukwila International Boulevard Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "tukwila"}) %>
         <%= markdown.tukwila %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="seatac">
+        <div class="stop-title">SeaTac/Airport Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "seatac"}) %>
         <%= markdown.seatac %>
         <%= t.include("_topTemplate.html") %>
       </div>
       <div class="desc" id="angle">
+        <div class="stop-title">Angle Lake Station</div>
         <%= t.include("_galleryTemplate.html", {keyword: "angle"}) %>
         <%= markdown.angle %>
         <%= t.include("_topTemplate.html") %>
@@ -128,6 +146,7 @@
         <div>Reporting by Tyler Sipe and Lindsey Wasson</div>
         <div>Design by Frank Mina</div>
         <div>Web development by Audrey Carlsen</div>
+        <div class="dateline">Originally published December 12, 2016.</div>
       </div>
 
     </div>
@@ -135,11 +154,11 @@
     <%= t.include("./partials/_dontMiss.html", { data: [
       { link: "http://projects.seattletimes.com/2016/st3-guide/", image: "st3.png", category: "Transportation", head: "ST3: What you'd pay, what you'd get" },
       { link: "http://projects.seattletimes.com/2016/quizzes/seattle-neighborhoods-quiz/", image: "neighborhoods.jpg", category: "Quiz", head: "New to Seattle? Find your neighborhood." },
-      { link: "http://www.seattletimes.com/life/food-drink/newcomers-guide-to-pho/", image: "pho.jpg", category: "Food & Drink", head: "A guide to pho — Seattle’s favorite soup-and-noodle dish" },
+      { link: "http://projects.seattletimes.com/2016/bus-sketches/", image: "bus.jpg", category: "Seattle Sketcher", head: "The bus riders of Seattle: their loves, frustrations — and hopes" },
       { link: "http://projects.seattletimes.com/2016/bhutan-to-tukwila/", image: "bhutan.jpg", category: "Photo & Video", head: "30 Days: A refugee family's first month in the U.S." }
     ]}) %>
 
-    <%= t.include("./partials/_ad.html", { type: "bannerBottom" }) %>
+    <div class="ad-bottom"><%= t.include("./partials/_ad.html", { type: "bannerBottom" }) %></div>
 
     <%= t.include("./partials/_navBottom.html") %>
 

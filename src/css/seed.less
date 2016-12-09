@@ -5,14 +5,15 @@
 .inner {
   max-width: 960px;
   margin: auto;
-  padding: 40px 10px;
-  padding-top: 0;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .hed {
   text-align: center;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 60px;
   padding-top: 20px;
 
   @media @mobile {
@@ -20,8 +21,20 @@
   }
 }
 
+.divider {
+  border-top: 4px solid @df-middle-gray;
+  width: 40%;
+  margin: auto;
+}
+
+.subhed {
+  text-align: center;
+  font-size: 26px;
+  margin-top: 15px;
+}
+
 .intro {
-  max-width: 630px;
+  max-width: 720px;
   margin: auto;
   padding-bottom: 30px;
 }
@@ -30,7 +43,7 @@
   text-align: center;
   font-size: 16px;
   font-family: @df-sans;
-  margin-top: 10px;
+  margin-top: 20px;
   // font-style: italic;
 }
 
@@ -47,7 +60,7 @@
 }
 
 .desc {
-  margin-top: 100px;
+  margin-top: 80px;
 
   p:first-child {
     margin-top: 0;
@@ -98,12 +111,22 @@
   font-family: @df-sans;
   margin-top: 40px;
   font-size: 16px;
+  text-align: center;
 
   div {
     padding-bottom: 4px;
 
-    &:last-child {
+    &.dateline {
       padding-bottom: 0;
+      padding-top: 15px;
+      font-size: 14px;
+      font-style: italic;
     }
   }
 }
+
+.ad-bottom {
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+

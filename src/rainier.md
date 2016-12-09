@@ -1,5 +1,3 @@
-<div class="stop-title">Rainier Beach Station</div>
- 
 Where Rainier Avenue meets Lake Washington, you’ll find the busy commercial and residential neighborhood of Rainier Beach.
  
 Among the area’s attractions are a recently remodeled [community center](http://www.seattle.gov/parks/find/centers/rainier-beach-community-center) (with a family-friendly indoor pool) and branch library that serves patrons in many languages. Nearby [Kubota Garden](http://www.seattle.gov/parks/find/parks/kubota-garden), an expansive, tranquil Japanese garden created in the late 1920s by Japanese immigrant Fujitaro Kubota, is home to a bamboo grove, koi-filled ponds and the picturesque Heart Bridge.
