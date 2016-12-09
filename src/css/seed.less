@@ -73,6 +73,10 @@ body {
 .nav-map {
   max-width: 630px;
   margin: auto;
+
+  svg {
+    width: 100%;
+  }
 }
 
 .stop-title {
@@ -106,6 +110,12 @@ body {
   cursor: pointer;
 }
 
+g.hovered {
+  .cls-4 {
+    fill: #1e7d7a;
+  }
+}
+
 .top-wrapper {
   text-align: right;
   border-bottom: 1px solid @df-light-gray;
@@ -130,7 +140,7 @@ body {
 
   &:hover {
     .arrow {
-      color: @df-blue;
+      color: #385988;
     }
   }
 }

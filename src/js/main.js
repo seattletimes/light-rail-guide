@@ -20,6 +20,29 @@ document.querySelector(".nav-map svg").addEventListener("click", function(e) {
   }
 });
 
+document.querySelector(".nav-map svg").addEventListener("mouseover", function(e) {
+  if (e.target.classList[0].indexOf("cls-4") > -1 || e.target.classList[0].indexOf("cls-3") > -1) {
+    var parent = e.target.parentNode;
+    var stop = e.target.parentNode.getAttribute("data-stop");
+    while (!stop) {
+      parent = parent.parentNode;
+      stop = parent.getAttribute("data-stop");
+    }
+    parent.classList.add("hovered");
+  }
+});
+document.querySelector(".nav-map svg").addEventListener("mouseout", function(e) {
+  if (e.target.classList[0].indexOf("cls-4") > -1 || e.target.classList[0].indexOf("cls-3") > -1) {
+    var parent = e.target.parentNode;
+    var stop = e.target.parentNode.getAttribute("data-stop");
+    while (!stop) {
+      parent = parent.parentNode;
+      stop = parent.getAttribute("data-stop");
+    }
+    parent.classList.remove("hovered");
+  }
+});
+
 qsa(".top-button").forEach(function(t) {
   t.addEventListener("click", function(e) {
     animateScroll("#top");
