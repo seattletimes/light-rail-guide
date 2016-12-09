@@ -12,6 +12,10 @@
     font-size: 15px;
     color: @df-middle-gray;
     line-height: 1.5em;
+
+    @media @mobile {
+      font-size: 14px;
+    }
   }
 
   .image-wrapper {
@@ -138,5 +142,9 @@
     .flex(1);
     text-align: left;
     padding: 20px;
+
+    @media @mobile {
+      padding: 20px 10px;
+    }
   }
 }

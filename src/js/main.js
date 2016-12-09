@@ -16,13 +16,6 @@ document.querySelector(".nav-map svg").addEventListener("click", function(e) {
       parent = parent.parentNode;
       stop = parent.getAttribute("data-stop");
     }
-    // if (!stop) {
-    //   stop = e.target.parentNode.parentNode.getAttribute("data-stop");
-    // }
-    // if (!stop) {
-    //   stop = e.target.parentNode.parentNode.parentNode.getAttribute("data-stop");
-    // }
-    console.log(stop)
     animateScroll("#" + stop)
   }
 });

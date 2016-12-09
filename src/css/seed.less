@@ -2,6 +2,12 @@
 @import "gallery";
 @import "animation";
 
+body {
+  @media @tablet {
+    font-size: 18px;
+  }
+}
+
 .inner {
   max-width: 960px;
   margin: auto;
@@ -138,13 +144,24 @@
   margin-right: 8px;
   font-weight: bold;
   font-size: 78px;
+
+  @media @mobile {
+    font-size: 70px;
+  }
 }
 
 aside.map {
   width: 25%;
   clear: both;
   float: right;
-  // margin-top: 12px;
   margin-bottom: 12px;
   margin-left: 16px;
+
+  @media @tablet {
+    width: 33%;
+  }
+
+  @media @mobile {
+    width: 45%;
+  }
 }
