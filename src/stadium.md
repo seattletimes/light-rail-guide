@@ -1,5 +1,3 @@
-<aside class="map"><img src="./assets/maps/StadiumStation-c.jpg"></aside>
-
 <span class="dropcap">S</span>tadium Station offers easy access to Seattle’s major-league sporting events, including [Mariners games](http://www.seattletimes.com/sports/mariners/) at Safeco Field, and [Sounders FC](http://www.seattletimes.com/sports/sounders/) and [Seahawks games](http://www.seattletimes.com/sports/seahawks/) at CenturyLink Field. 
 
 In 2001, Safeco Field replaced the Kingdome, which was [imploded in grand fashion](http://old.seattletimes.com/special/kingdome/). Its centerfield screen is the second-largest in baseball, as of the 2016 season, and its retractable roof covers nearly 9 acres and contains enough steel to build a 55-story skyscraper.

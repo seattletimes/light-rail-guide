@@ -1,7 +1,5 @@
 <span class="dropcap">W</span>here Rainier Avenue meets Lake Washington, you’ll find the vibrant, diverse and residential neighborhood of Rainier Beach.
 
-<aside class="map"><img src="./assets/maps/RainierStation-c.jpg"></aside>
-
 Among the area’s attractions are a recently remodeled [community center](http://www.seattle.gov/parks/find/centers/rainier-beach-community-center) (with a family-friendly indoor pool) and branch library that serves patrons in many languages. Nearby [Kubota Garden](http://www.seattle.gov/parks/find/parks/kubota-garden), an expansive, tranquil Japanese garden created in the late 1920s by Japanese immigrant Fujitaro Kubota, is home to a bamboo grove, koi-filled ponds and the picturesque Heart Bridge.
  
 From there, you can take the short trek to Lake Washington’s [Pritchard Island Beach](http://www.seattle.gov/parks/find/parks/pritchard-island-beach), a park with sweeping views of Seward Park to the north and Mercer Island to the east, and a connected marsh with native plants and several animal species calling the wetland home. Adjacent to Pritchard Island Beach is [Beer Sheva Park](https://www.seattle.gov/parks/find/parks/beer-sheva-park), which makes an ideal setting for a picnic, with the Cascade Mountains greeting visitors in the distance.

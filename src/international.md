@@ -1,6 +1,4 @@
 <span class="dropcap">S</span>eattle’s International District-Chinatown Station functions as a crossroads for Seattle’s Asian-American community, and for the city at large. The district is loosely divided into Chinatown, Japantown and Little Saigon neighborhoods.
-
-<aside class="map"><img src="./assets/maps/InternationalStation-c.jpg"></aside>
  
 Architecture fans will find much to ogle here, including the historic arched interiors of Union Station, a former Union Pacific train station that now houses Sound Transit and private events. A block to the west lies the recently renovated King Street Station, a “Railroad Italianate” gem serving Amtrak passengers. To the east, visitors pass under the 45-foot-tall, ornate Historic Chinatown Gate.
  
